@@ -9,10 +9,10 @@ Firebase Integration: Seamless connection to Firebase services.
 Firestore Database: Store and retrieve user-related data efficiently.
 # 👨‍💻 Team Contributions
 Feature	Contributor
-Signup	Tanvir
-Login	Mansief
-Firebase Integration	Mahin
-Firebase Firestore	Sifat
+Signup = Tanvir,
+Login	= Mansief,
+Firebase Integration =	Mahin,
+Firebase Firestore =	Sifat
 # 🧰 Technologies Used
 SwiftUI: For building the user interface.
 Firebase Authentication: For user signup and login functionality.
